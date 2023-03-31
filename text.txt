@@ -1,1 +1,4 @@
-This is a text file
+Steps:
+1. Add the file to stage by using "git add <fileName>"
+2. Commit the file by using "git commit <fileName>"
+3. Push the master branch by using "git push <branchName>"
