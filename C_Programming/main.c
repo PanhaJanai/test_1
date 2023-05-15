@@ -7,6 +7,8 @@ int main(){
     printf("Git hub is cool but it's killing me rn.");
 
     // This is so cool
+
+    // Double the cool
     
     // getch();
     return 0;
